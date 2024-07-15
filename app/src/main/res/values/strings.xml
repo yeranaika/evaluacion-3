@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mis Eventos</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="new_event">Nuevo Evento</string>
+    <string name="change_password">Cambiar Contraseña</string>
+    <string name="delete_user">Eliminar Usuario</string>
+    <string name="backup_data">Respaldar Datos</string>
+    <string name="title">Título</string>
+    <string name="date">Fecha</string>
+    <string name="importance">Importancia</string>
+    <string name="note">Observación</string>
+    <string name="place">Lugar</string>
+    <string name="reminder_time">Tiempo de Aviso</string>
+</resources>
